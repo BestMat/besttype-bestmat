@@ -1,4 +1,4 @@
-# BestType - BestDeveloepr - BestMat
+# BestType - BestDeveloper - BestMat
 © 2024 - BestDeveloper - BestMat, Inc. - All rights reserved.
 
 **BestType.js** is a runtime type-checking library for **JavaScript**, designed to bring a TypeScript-like type safety experience to your JavaScript projects. This library allows you to declare variables, define functions with type-checked parameters, and create enumerations with ease.
